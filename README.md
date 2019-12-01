@@ -18,7 +18,7 @@ We learned how to iterate over collections in JavaScript using loops. Now we're 
 
 <details>
 <summary>What loops did we use in JavaScript?</summary>
-<code>while</code>, <code>do...while</code>, <code>for</code>, <code>for...in</code>, <code>.forEach</code>
+<code>while</code>, <code>do...while</code>, <code>for</code>
 </details>
 
 ### Looping with Ruby
