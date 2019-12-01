@@ -43,7 +43,7 @@ In Ruby this is much cleaner:
 # > 2
 ```
 
-`times` is a method that takes a _block_.  A block is just a chunk of code that may or may not take arguments.  The closest thing to a block in ES6-land would be an (anonymous) arrow function.
+`times` is a method that takes a _block_.  A block is just a chunk of code that may or may not take arguments.
 
 We also have `.upto` and `.downto` methods for looping.
 
