@@ -294,7 +294,7 @@ Use `map` to do the following...
 
 3. Create an array with the Celsius values for these Fahrenheit values.
 
-  > Hint: `C = (F - 32) * (5 / 9)`
+  > Hint: `C = (F - 32) * (0.555555)`
 
   ```ruby
   fahrenheit_temps = [ -128.6, 0, 32, 140, 212 ]
